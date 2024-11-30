@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "nerre_llama"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Python package with dependencies managed via requirements.txt"
 readme = "README.md"
 license = {text = "MIT"}
