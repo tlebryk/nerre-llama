@@ -21,4 +21,4 @@ dependencies = {file = ["requirements.txt"]}
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["llama-nerre*"]
+include = ["llama_nerre*"]
