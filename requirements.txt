@@ -10,7 +10,7 @@ datasets
 fire
 # git+https://github.com/huggingface/peft.git
 transformers>=4.31.0
-sentencepiece
+# sentencepiece
 py7zr
 scipy
 optimum
